@@ -1,3 +1,3 @@
-Available at <a>a-generative-synth.herokuapp.com</a>
+Available at [a-generative-synth.herokuapp.com]a-generative-synth.herokuapp.com
 
 Please note mobile version is not currently implemented.
