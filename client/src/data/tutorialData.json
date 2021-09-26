@@ -1,0 +1,93 @@
+{
+  "tutorialData": [
+    {
+      "copy": "\nwelcome to the tutorial!\nuse ← and → to proceed\n or click the eject button to exit.\n",
+      "animationId": "EJECT"
+    },
+    {
+      "copy": "\nthese are oscillators\neach of them makes sound.\n",
+      "animationId": "ALLOSCILLATORS"
+    },
+    {
+      "copy": "\ndrag the volume slider to the right to hear it.",
+      "animationId": ""
+    },
+    {
+      "copy": "\nyou can also drag the pitch slider\nto the right to make the sound higher.",
+      "animationId": ""
+    },
+    {
+      "copy": "\nyou can also choose from the three soundwaves\n which will change the overall tone of each oscillator.",
+      "animationId": "WAVE"
+    },
+    {
+      "copy": "\nleft is a 'sine' wave, it's smooth\nmiddle is a 'square' wave, it's sharp\nright is a 'triangle' wave, it's harsh.",
+      "animationId": "WAVE"
+    },
+    {
+      "copy": "\nthese are audio 'effects'\nthey change the character of your sound.",
+      "animationId": "FX"
+    },
+    {
+      "copy": "\ntremolo is a volume ping pong.",
+      "animationId": "TREMOLO"
+    },
+    {
+      "copy": "\ndelay makes the sound echo.",
+      "animationId": "DELAY"
+    },
+    {
+      "copy": "\nreverb makes your sounds seem further away.",
+      "animationId": "REVERB"
+    },
+    {
+      "copy": "\ndistortion increases overall nastiness.",
+      "animationId": "DISTORTION"
+    },
+    {
+      "copy": "\nplay around with the settings to\ncome up with combinations you like.",
+      "animationId": "ALLFX"
+    },
+    {
+      "copy": "\ntry out the generative mode\n(the synth will play itself if it's not muted).",
+      "animationId": "GENERATIVE_MODE"
+    },
+    {
+      "copy": "\ndon't worry it'll never be louder\nor higher pitched than your original settings.",
+      "animationId": "GENERATIVE_MODE"
+    },
+    {
+      "copy": "\ntop tip: it'll sound best if you have a wide variety\nof effects and oscillator settings",
+      "animationId": "GENERATIVE_MODE"
+    },
+    {
+      "copy": "\nclick again to exit generative mode\nand get your original settings back.",
+      "animationId": "GENERATIVE_MODE"
+    },
+    {
+      "copy": "\nlike what you've come up with?\nyou can save it here once you have an account.",
+      "animationId": "SAVE"
+    },
+    {
+      "copy": "\n...which you can sign up for and access here.",
+      "animationId": "ACCOUNT_ACCESS"
+    },
+    {
+      "copy": "\nnot your first time?\nload some previous settings here.",
+      "animationId": "LOAD"
+    },
+    {
+      "copy": "\nit's worth noting: effects can get wild!\nhit here to reset all sounds\nand rest your ears when needed.",
+      "animationId": "RESET"
+    },
+    {
+      "copy": "\nyou can also mute it for a little break\nyour effects will fade out, which might sound cool?",
+      "animationId": "MUTE"
+    },
+    {
+      "copy": "\ndouble click your oscillators to rename them! this gets saved as well.",
+      "animationId": "OSCILLATOR"
+    },
+    { "copy": "\nhave fun, and get weird!", "animationId": "EJECT" }
+  ]
+}

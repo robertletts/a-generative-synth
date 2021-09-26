@@ -1,0 +1,36 @@
+{
+  "name": "msc-computer-science-project-2020_21---files-robertletts",
+  "version": "1.0.0",
+  "description": "Browser-based audio synthesiser using generative audio techniques",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "cd client && npm run build && cd .. && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Birkbeck/msc-computer-science-project-2020_21---files-robertletts.git"
+  },
+  "author": "Rob Letts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Birkbeck/msc-computer-science-project-2020_21---files-robertletts/issues"
+  },
+  "homepage": "https://github.com/Birkbeck/msc-computer-science-project-2020_21---files-robertletts#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-mongo-sanitize": "^2.1.0",
+    "express-rate-limit": "^5.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.0",
+    "mongoose": "^6.0.2",
+    "morgan": "^1.10.0",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  }
+}
